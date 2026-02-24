@@ -10,6 +10,12 @@ Designed to address data gaps that block OCR performance
 when real samples are missing or expensive to label.
 </p>
 
+## New Updates
+### [A Handwriting Style Generation Scheme](./handWriter/README.md) - 24/02/2026  
+
+
+---
+
 ##### OCR models often fail in real business scenarios due to:
 - Lack of domain-specific images
 - Extremely small text (single digits, specs, quantities)
