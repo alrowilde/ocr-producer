@@ -3,16 +3,18 @@ Business-Oriented Synthetic OCR Dataset Generator
 </div>
 <p>
 Synthetic data generation for hard cases in business documents:
-imbalanced fields, tabl[effects](effects)e column merges, and small-text failures.
+imbalanced fields, table column merges, and small-text failures.
 </p>
 <p>
 Designed to address data gaps that block OCR performance
 when real samples are missing or expensive to label.
 </p>
 
-## New Updates
-### [A Handwriting Style Generation Scheme](./handWriter/README.md) - 24/02/2026  
+## New Features
 
+### [A Handwriting Style Generation Scheme](./handWriter/README.md) - 24/02/2026  
+### [A Public Dataset Of Invoice-checkmark-annotations](https://huggingface.co/datasets/AlroWilde/invoice-checkmark-annotations) - 20/03/2026  
+### [AI-Powered Business Image Synthesis System](./synthesisSystem/README.md) - 22/03/2026  
 
 ---
 
