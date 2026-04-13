@@ -11,7 +11,7 @@ Built specifically for enterprises that run private VLM/OCR models but lack high
 
 ### 🎥 70-Second Full Workflow Demo
 
-<video src="./ai-powered_synthesis_system.mp4" controls width="100%">
+<video src="https://github.com/user-attachments/assets/be75344b-2adc-46cc-a279-1d6fd1b58649" controls width="100%">
   Your browser does not support this video.
 </video>
 

@@ -18,7 +18,7 @@ when real samples are missing or expensive to label.
 ### [AI-Powered Business Synthesis System Demonstration](./synthesisSystem/README.md) - 13/04/2026  
 
 <div>
-<video src="./synthesisSystem/ai-powered_synthesis_system.mp4" controls width="100%">
+<video src="https://github.com/user-attachments/assets/be75344b-2adc-46cc-a279-1d6fd1b58649" controls width="100%">
   Your browser does not support this video.
 </video>
 <p style="text-align:center"><a href="./synthesisSystem/README.md">AI-Powered Business Synthesis System Demonstration</a></p>
