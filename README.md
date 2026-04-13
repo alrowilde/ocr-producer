@@ -15,6 +15,14 @@ when real samples are missing or expensive to label.
 ### [A Handwriting Style Generation Scheme](./handWriter/README.md) - 24/02/2026  
 ### [A Public Dataset Of Invoice-checkmark-annotations](https://huggingface.co/datasets/AlroWilde/invoice-checkmark-annotations) - 20/03/2026  
 ### [AI-Powered Business Image Synthesis System](./synthesisSystem/README.md) - 22/03/2026  
+### [AI-Powered Business Synthesis System Demonstration](./synthesisSystem/README.md) - 13/04/2026  
+
+<div>
+<video src="./synthesisSystem/ai-powered_synthesis_system.mp4" controls width="100%">
+  Your browser does not support this video.
+</video>
+<p style="text-align:center"><a href="./synthesisSystem/README.md">AI-Powered Business Synthesis System Demonstration</a></p>
+</div>
 
 ---
 
